@@ -2,6 +2,7 @@
 8-1 Journal: Portfolio Submission
 
 1. Summarize the project and what problem it was solving.
+
 The project is a simple time management program written in C++. It provides two clock formats - a 12-hour format and a 24-hour format - and allows users to add hours, minutes, and seconds to each clock separately. The program helps users keep track of time by displaying both clock formats and allowing them to add time as needed.
 
 2. What did you do particularly well?
