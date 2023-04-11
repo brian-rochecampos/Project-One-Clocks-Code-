@@ -23,4 +23,4 @@ This project has helped me develop my skills in object-oriented programming and 
 
 6. How did you make this program maintainable, readable, and adaptable?
 
-I made the program maintainable by breaking down the code into smaller functions and ensuring that each function performs a single, well-defined task. I also added comments to each function to explain what it does and how it works. Finally, I also made the program adaptable by providing options for both 12-hour and 24-hour time formats and allowing users to add time to each clock separately.
+I made the program maintainable by breaking down the code into smaller and ensuring that each function performs a single, well-defined task. I also added comments to each function to explain what it does and how it works. Finally, I also made the program adaptable by providing options for both 12-hour and 24-hour time formats and allowing users to add time to each clock separately.
