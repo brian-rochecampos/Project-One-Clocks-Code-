@@ -19,7 +19,7 @@ I didn't find any part of the code particularly challenging to write. However, I
 
 5. What skills from this project will be particularly transferable to other projects or course work?
 
-This project has helped me develop my skills in object-oriented programming and problem-solving. It has also helped me practice working with user input and creating a menu-based interface. These skills will be transferable to other projects and coursework that involve creating programs with user input and graphical interfaces.
+This project has helped me develop my skills in object-oriented programming and problem-solving. It has also helped me practice working with user input and creating a menu-based interface. These skills will be transferable to other projects and coursework that involve creating programs with user input.
 
 6. How did you make this program maintainable, readable, and adaptable?
 
