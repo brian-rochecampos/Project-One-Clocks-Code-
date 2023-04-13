@@ -1,5 +1,5 @@
 # Project-One-Clocks-Code-
-8-1 Journal: Portfolio Submission
+8-1 Journal: Portfolio
 
 1. Summarize the project and what problem it was solving.
 
